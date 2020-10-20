@@ -29,7 +29,7 @@ namespace FormApp
         public Form1()
         {
             Height = 500; //
-            Width = 750;
+            Width = 750;//
             Text = "Vorm elementidega";
             tree = new TreeView();
             tree.Dock = DockStyle.Left;
