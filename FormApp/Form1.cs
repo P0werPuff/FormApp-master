@@ -28,7 +28,7 @@ namespace FormApp
         DataGridView dgv;
         public Form1()
         {
-            Height = 500;
+            Height = 500; //
             Width = 750;
             Text = "Vorm elementidega";
             tree = new TreeView();
